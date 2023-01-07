@@ -6,7 +6,11 @@ Weather app using openweathermap API
 
 https://openweathermap.org/api
 
-Intership Project :
+#Internship Project
+
+#Web Development Intern
+
+#Allocated Project
 
 
 Development

@@ -17,7 +17,7 @@ Development
 
 Getting started
 
-Enter in the repo directory in local by terminal Use the command: sudo python -m SimpleHTTPServer 80 Open your browser with this address: http://localhost 
+Enter in the repo directory in local by terminal Use the command: http://localhost 
 
 Deploy link : 
 
